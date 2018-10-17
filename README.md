@@ -1,1 +1,1 @@
-# javaprog
+# java  program to partially manage a golf league. It will allow adding and removing players, keep track of scores, and compute handicaps. You will make six class files: GolfLeagueMember.java, RegularMember.java, SeniorMember.java, YouthMember.java, GolfLeague.java, and Prog2.java. 
